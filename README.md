@@ -2,10 +2,9 @@
 - [Snapshoting dumb components](/src/components/__tests__/CustomSelect-test.js#L7-L19)
 - [Testing component state](/src/components/__tests__/CustomSelect-test.js#L28-L60)
 - [Ajax with Fetch](/src/queries/__tests__/loadPipes-test.js)
-## Redux
-- [Action](/src/__tests__/actions-test.js)
-- [Reducers](/src/__tests__/rootReducer-test.js)
-- [Async Action](/src/__tests__/async-actions-test.js)
+- [Redux Action](/src/__tests__/actions-test.js)
+- [Redux Reducers](/src/__tests__/rootReducer-test.js)
+- [Redux Async Action](/src/__tests__/async-actions-test.js)
 
 # Links:
 - [Jest Expects](https://facebook.github.io/jest/docs/expect.html)
