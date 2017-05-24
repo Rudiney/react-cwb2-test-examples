@@ -1,0 +1,23 @@
+exports[`no value and a placeholder renders the placeholder 1`] = `
+<div
+  className="custom-select">
+  <button
+    className="dhdhdhdhddh"
+    onClick={[Function]}>
+    select...
+  </button>
+</div>
+`;
+
+exports[`the dropdown renders a ul>li with the options 1`] = `"<div class=\"custom-select\"><button class=\"dhdhdhdhddh\"></button><ul><li>One</li><li>Two</li><li>Three</li></ul></div>"`;
+
+exports[`with a value display the value in the button 1`] = `
+<div
+  className="custom-select">
+  <button
+    className="dhdhdhdhddh"
+    onClick={[Function]}>
+    I am selected
+  </button>
+</div>
+`;
