@@ -30,3 +30,4 @@ Create a new token and copy it
 
 Paste it in the file [`src/queries/loadPipes.js`](https://github.com/Rudiney/react-cwb2-test-examples/blob/master/src/queries/loadPipes.js).
 
+3. run `yarn start` and you will see the ugly buttons in the browser
